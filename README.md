@@ -1,2 +1,2 @@
 # Clone_Innstagram-_Landing-_Page
-A ideia do projeto era criar um clone da landing page do Instagram utilizando HTML e CSS, além de buscar priorizar um design responsivo. Alterei 
+O projeto consiste em criar um clone da landing page do Instagram utilizando HTML e CSS, além de buscar priorizar um design responsivo. Ainda que em estágio bastante inicial, a ideia era que a landing page trouxesse como background fotografias da região acessada pelo usuário, valorizando assim o trabalho de fotógrafos regionais ou interessados na cultura regional. Dessa forma, busquei trazer uma experiência minimamente personalizada aos latino-americanos como eu. Utilizei também o editor gráfico Figma para recriar a tela do celular que consta na landing. 
